@@ -1,4 +1,4 @@
-# starting in github
+# startingingithub
 First try
 <br>
 Author - Shashank
